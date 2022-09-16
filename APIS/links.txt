@@ -1,0 +1,3 @@
+HTTP Methods for REST services: https://www.restapitutorial.com/lessons/httpmethods.html
+
+HTTP response status codes: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
