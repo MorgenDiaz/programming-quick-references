@@ -2,4 +2,5 @@ express,
 morgan,
 cors,
 nodemon,
-supertest
+supertest,
+pm2,
