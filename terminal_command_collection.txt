@@ -1,0 +1,7 @@
+Note () parentheses not included in commands.
+
+(list proccesses currently running on port.)
+    lsof -i tcp:(your port here)
+
+(kill proccess by proccess Id)
+    kill -9 (your proccess Id here)
