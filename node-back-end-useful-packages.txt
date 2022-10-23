@@ -4,3 +4,6 @@ cors,
 nodemon,
 supertest,
 pm2,
+bcrypt,
+jwt,
+helmet : Widely used package that contains a collection of middleware that helps us secure our server.
