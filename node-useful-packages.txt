@@ -1,2 +1,4 @@
 jest
 dotenv
+socket.io : Enables real-time bidirectional event-based communication (font & back end)
+passport: Flexible, modular authentication library.
